@@ -1,9 +1,5 @@
 
-# Project Title
-
-Obsidian Markdown Cheatsheet
-
-## Description
+# Obsidian Markdown Cheatsheet
 
 A simple Markdown Cheatsheet I created to help me learn obsidian. It's not intended to cover 100% of what you can do, but just provide syntaxes to jog your memory and get you started.
 
@@ -13,11 +9,11 @@ Hope it helps!
 
 ### Dependencies
 
-* A pdf viewer.
+* A pdf viewer. Maybe a printer.
 
 ### Installing
 
-* Download the pdf file. That's pretty much it!
+* Download the pdf file and print it out. That's pretty much it!
 
 ## Version History
 
