@@ -8,7 +8,7 @@ A simple Markdown Cheatsheet I created to help me learn obsidian. It's not inten
 
 Feel free to download and use, share, etc.
 
-Hope it helps!
+Hope it helps! If it does, consider buying me a Ko-Fi (see link above).
 
 ### Dependencies
 
