@@ -1,14 +1,16 @@
 
 # Obsidian Markdown Cheatsheet
 
+<a href="https://ko-fi.com/swenlarsen" target="_blank"><img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+
 A simple Markdown Cheatsheet I created to help me learn obsidian. It's not intended to cover 100% of what you can do, but just provide syntaxes to jog your memory and get you started.
 
-![image](https://github.com/user-attachments/assets/91b3caa0-877a-43e6-9154-18de2abc15e4)
+![image](https://github.com/user-attachments/assets/91b3caa0-877a-43e6-9154-18de2abc15e4|400)
 
 
 Feel free to download and use, share, etc.
 
-Hope it helps! If it does, [buy me a Ko-fi!](https://ko-fi.com/swenlarsen)
+Hope it helps! If it does, consider buying me, a poor coder (steady there, Sparkplug!), a cup of [Ko-fi!](https://ko-fi.com/swenlarsen)
 
 ### Dependencies
 
