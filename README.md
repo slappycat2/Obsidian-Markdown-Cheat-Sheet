@@ -5,7 +5,7 @@
 
 A simple Markdown Cheatsheet I created to help me learn obsidian. It's not intended to cover 100% of what you can do, but just provide syntaxes to jog your memory and get you started.
 
-![image](https://github.com/user-attachments/assets/91b3caa0-877a-43e6-9154-18de2abc15e4|400)
+![image](https://github.com/user-attachments/assets/91b3caa0-877a-43e6-9154-18de2abc15e4)
 
 
 Feel free to download and use, share, etc.
