@@ -1,5 +1,6 @@
 
 # Obsidian Markdown Cheatsheet
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z71B3VAA)
 
 A simple Markdown Cheatsheet I created to help me learn obsidian. It's not intended to cover 100% of what you can do, but just provide syntaxes to jog your memory and get you started.
 
@@ -9,6 +10,8 @@ A simple Markdown Cheatsheet I created to help me learn obsidian. It's not inten
 Feel free to download and use, share, etc.
 
 Hope it helps! If it does, consider buying me--a poor coder (steady there, Sparkplug!)--a cup of [Ko-fi!](https://ko-fi.com/swenlarsen). It would be greatly appreciated! 
+
+Also, you may wish to check out my other project, [Obsidian Vault Health Check](https://github.com/slappycat2/obsidian-vault-health-check). Again, it's free, open-source, and I hope it helps!
 
 ### Dependencies
 
